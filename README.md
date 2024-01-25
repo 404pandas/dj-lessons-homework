@@ -83,9 +83,9 @@ Any homework I develop will be designed for smaller screens!
 ## Roadmap
 
 - [ ] 100_Frontend
-  - [ ] Module_1_HTML
-    - [ ] HTML_101
-    - [ ] HTML_201
+  - [x] Module_1_HTML
+    - [x] HTML_101
+    - [x] HTML_201
   - [ ] Module_2_CSS
     - [ ] CSS_101
     - [ ] CSS_201
