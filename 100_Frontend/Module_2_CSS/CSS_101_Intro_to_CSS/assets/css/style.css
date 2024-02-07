@@ -1,0 +1,86 @@
+/* COMPONENTS */
+
+body {
+  margin: 0px;
+  width: 100vw;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Pet Container */
+.pet-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+#ul-container {
+  display: flex;
+  list-style: none;
+}
+
+#ul-container\ group-view {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+}
+
+#ul-container\ landing-page {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* PAGES */
+
+/* Breeds page */
+
+/* Groups page */
+#ul-group-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.individual-group {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+.group-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+.group-header img {
+  width: 100vw;
+}
+
+.group-name {
+  left: 0%;
+  position: relative;
+  top: 0px;
+}
+
+.individual-pet {
+}
+
+/* Landing Page */
+.landing-individual-pet {
+}
+/* Quiz Page */
